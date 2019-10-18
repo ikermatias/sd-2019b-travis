@@ -8,6 +8,6 @@ def test_add():
     add_result = demo.add(3,4)
     add_result2 = demo.add(2,1)
     assert add_result == 7
-    assert add_result == 3
+    assert add_result2 == 3
 
 
